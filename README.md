@@ -5,5 +5,5 @@ Basic TCP 'hello' server. Sends a message once connected.
 
 ## Usage
 <pre>
-Usage: ./helloserver [port]
+./helloserver [port]
 </pre>
